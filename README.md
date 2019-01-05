@@ -1,4 +1,4 @@
-# check-the-weather
+# Check The Weather
 Weather APP Built with pure JS to check the weather.
 
 This is a small app built with JavaScript that uses openweather API to retrieve wether information form cities.
